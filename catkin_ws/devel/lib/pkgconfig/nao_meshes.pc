@@ -1,0 +1,8 @@
+prefix=/home/david/catkin_ws/devel
+
+Name: nao_meshes
+Description: Description of nao_meshes
+Version: 0.1.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
