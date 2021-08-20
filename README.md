@@ -1,6 +1,9 @@
 # REU-Socially-Interactive-Robotics
 ## Working repository for the University of Texas at Arlington's 2021 REU on assistive technology
 
+Requirements:
+Ubuntu 16.04
+
 Steps for implementation:
 
 1. First set up ROS and your environment with the following commands:
