@@ -35,4 +35,7 @@ https://msadowski.github.io/ros-web-tutorial-pt2-cameras/
 - To begin, run "roscore" in a terminal
 - In another terminal, run "roslaunch my_camera elp.launch". Your camera shoud be running now.
 - In a new terminal run "roslaunch ros_openpose run.launch camera:=no_depth". Now openpose will begin to examine your face. Make, sure a GPU is enabled, or else it will run extremely slowly
-- In the last three terminals, run "roslaunch nao_gazebo_plugin nao_gazebo_plugin_H25.launch" (Gazebo), "roslaunch nao_moveit_config moveit_planner.launch" (MoveIt), and "roslaunch NAO_custom move_group_python_nterface_tutorial.launch" (remote simulation control)
+- In the last three terminals, run:
+- "roslaunch nao_gazebo_plugin nao_gazebo_plugin_H25.launch" (Gazebo)
+- "roslaunch nao_moveit_config moveit_planner.launch" (MoveIt)
+- "roslaunch NAO_custom move_group_python_nterface_tutorial.launch" (remote simulation control)
