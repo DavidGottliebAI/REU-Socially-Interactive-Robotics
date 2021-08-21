@@ -38,4 +38,4 @@ https://msadowski.github.io/ros-web-tutorial-pt2-cameras/
 - In the last three terminals, run:
   - "roslaunch nao_gazebo_plugin nao_gazebo_plugin_H25.launch" (Gazebo)
   - "roslaunch nao_moveit_config moveit_planner.launch" (MoveIt)
-  - "roslaunch NAO_custom move_group_python_nterface_tutorial.launch" (remote simulation control)
+  - "roslaunch NAO_custom move_group_python_interface_tutorial.launch" (remote simulation control)
